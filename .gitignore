@@ -1,0 +1,13 @@
+data/
+plots/
+models/
+
+Manifest.toml
+Project.toml
+
+*.h5
+*.png
+*.jls
+
+settings.json
+*.csv
