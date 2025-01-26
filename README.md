@@ -1,4 +1,4 @@
-# Approximate Belief Propagation for Bayesian Neural Networks
+# Approximate Message Passing for Bayesian Neural Networks
 
 ### Setup
 Our library and experiments are mostly written in Julia.
